@@ -2,10 +2,10 @@
   "name": "crutch/database",
   "type": "library",
   "description": "database interface",
+  "license": ["MIT"],
   "require": {
     "php": "^7.4 || ^8.0"
   },
-  "license": ["MIT"],
   "autoload": {
     "psr-4": {
       "Crutch\\Database\\": "src/"
